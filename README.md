@@ -1,8 +1,8 @@
 # APSSDC
 ## basic linex commands
 - pwd
--ls
--cd path
+- ls
+- cd path
 - cd ../
 - mkdir foldername
 - rmdir foldername
@@ -10,6 +10,6 @@
 - nano filename
 - touch filename
 - cat filename
--python filename
--clear
+- python filename
+- clear
 
